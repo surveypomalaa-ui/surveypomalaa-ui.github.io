@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.surveypomalaa_ui.twa",
+        "sha256_cert_fingerprints": ["7D:69:0E:66:53:AF:38:D8:01:F4:24:02:01:00:55:E7:B3:0E:F8:37:81:4D:18:B8:EA:14:FB:98:36:70:E9:DF"]
+      }
+    }]
